@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yll Berisha</h1>
-<h3 align="center">A passionate developer from Kosovo</h3>
+<h3 align="center">From Kosovo</h3>
 
 <p align="center">I'm a tech enthusiast and software developer who loves to code and learn something new every day. Whether it's programming languages, frameworks, or technologies, I'm always eager to expand my knowledge and skills.</p>
 
